@@ -1,0 +1,13 @@
+{
+  "name": "juno-portfolio",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Serve using: npx http-server'"
+  },
+  "keywords": ["portfolio"],
+  "author": "Arjun Selvakumar",
+  "license": "MIT"
+}
